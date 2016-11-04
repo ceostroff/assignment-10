@@ -1,0 +1,21 @@
+#castle {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-height: auto;
+    min-width: auto;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: auto;
+    padding: 0;
+}
+body { 
+    overflow: hidden;
+    
+}
+#hufflepuff, #gryffindor, #ravenclaw, #slytherin { 
+    height: 75px;
+    width: 75px;
+}
